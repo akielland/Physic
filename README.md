@@ -1,4 +1,4 @@
 ## Physic
 Small collection of physic projects from my Bachelor studies.
-They are commposed piper stile description of the projets with accompanied Python scripts
-I will add more here
+They are commposed of a paper stile description of the projet with accompanied Python scripts
+More to come here
